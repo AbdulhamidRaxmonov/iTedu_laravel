@@ -1,3 +1,24 @@
+You can see site itedu.uz
+
+iT EDU personal site creeated by laravel fremwork 
+Installation steps
+1.Create new database 
+and write to .env file
+php artisan migrate
+
+php artisan serve
+
+1.Frontend side
+![image](https://user-images.githubusercontent.com/94451795/144230081-c215cb4e-d42c-4702-8445-b2bddec7f55d.png)
+
+![image](https://user-images.githubusercontent.com/94451795/144230126-b2cbe3fd-d4a4-4e45-bda0-f24d7e20f04f.png)
+
+2.Backend side
+![image](https://user-images.githubusercontent.com/94451795/144230410-e6982cb9-a48e-41ba-b35f-be4e36a094cf.png)
+
+
+![image](https://user-images.githubusercontent.com/94451795/144230515-2f9f25b8-e354-4b73-a0af-99c81ab666e2.png)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
@@ -30,6 +51,7 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 ## Laravel Sponsors
 
 We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+
 
 ### Premium Partners
 
