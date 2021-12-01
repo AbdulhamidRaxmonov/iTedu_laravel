@@ -1,0 +1,16 @@
+.header{
+    height: 45px;
+}
+.app .content {
+    padding: 44px 40px 85px 40px;
+}
+.toolbox{
+    padding-top: 5px;
+    background: #f0f3f6;
+}
+.btn.btn-oval{
+    border-radius: 5px;
+}
+.btn-sm{
+    font-size: 13px;
+}
